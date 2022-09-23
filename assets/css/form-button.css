@@ -1,0 +1,17 @@
+.form-button{
+    border-style: none;
+    width: 140px;
+    height: 40px;
+    border-radius:50px;
+    border:2px solid #FF3131;
+    background-color: transparent;
+    font-size:1rem;
+    font-weight: 800;
+    color: #FF3131;
+    cursor: pointer;
+    transition: all .5s;
+}
+.form-button:hover{
+    background-color: #FF3131;
+    color:var(--second-color);
+}
